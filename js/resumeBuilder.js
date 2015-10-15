@@ -11,7 +11,7 @@ var bio = {
     welcomeMessage: "Professional with a work philosophy which is based on continuous learning and exploiting the opportunities that arise from it, this creates a person with knowledge of the latest updated technologies in the area of IT who can solve problems efficiently and provide solutions that fit the requirements of a rapidly changing world.", 
     skills: ["Javascript", "CSS", "HTML", "PHP", "C#", "MySQL"],
     other: ["BackboneJS", "Laravel", "ReactJS", "Xamarin", "SASS"],
-    biopic: "http://placehold.it/200x200"
+    biopic: "http://placehold.it/150x150"
 };
 
 bio.display = function(){
@@ -157,19 +157,19 @@ var projects = {
 		{
 			title: "Amargo.co", 
 			dates: "Jan 2014 - Feb 2014", //(works with a hyphen between them)
-			description: "Responsive website and product catalog",
+			description: "Responsive website and product catalog made with Laravel framework. It has an admin section which allows the client update its catalog.",
 			images: ["http://placehold.it/200x200","http://placehold.it/200x200","http://placehold.it/200x200"] //array with string urls
 		},
 		{
 			title: "Informe de Gestion 2013 Fundacion Promigas", 
 			dates: "May 2014 - Jul 2014", //(works with a hyphen between them)
-			description: "Fancy online presentation",
+			description: "Interactive online presentation made with DeckJS",
 			images: ["http://placehold.it/200x200","http://placehold.it/200x200","http://placehold.it/200x200"] //array with string urls
 		},
 		{
 			title: "Valorar.com.ve", 
 			dates: "May 2015 - Jul 2015", //(works with a hyphen between them)
-			description: "Responsive website",
+			description: "Responsive website made with PHP",
 			images: ["http://placehold.it/200x200","http://placehold.it/200x200","http://placehold.it/200x200"] //array with string urls
 		}
     ]
